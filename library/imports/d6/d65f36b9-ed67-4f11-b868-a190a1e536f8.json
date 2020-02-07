@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "金牌",
+    "texture": "bbfe6c34-bb13-4f21-a459-0517b8e7bc4d",
+    "atlas": "",
+    "rect": [
+      41,
+      12,
+      118,
+      176
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

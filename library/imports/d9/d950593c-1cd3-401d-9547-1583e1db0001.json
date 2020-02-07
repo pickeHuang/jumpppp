@@ -1,0 +1,11 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "&asset&type&",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "floor.prefab": "prefab",
+    "Elements.png": "texture",
+    "FloorSetting.ts": "typescript"
+  }
+}

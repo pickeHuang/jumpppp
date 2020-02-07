@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Obstacle_6",
+    "texture": "4795d1cb-e727-4153-a77e-7abf43563b70",
+    "atlas": "",
+    "rect": [
+      59,
+      25,
+      138,
+      164
+    ],
+    "offset": [
+      0,
+      21
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

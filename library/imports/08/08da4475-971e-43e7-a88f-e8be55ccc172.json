@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "White-Button",
+    "texture": "15bc4575-8538-4710-ab2d-9511e155adfb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      348,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      348,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+2020-02-07T14:18:08.175Z - normal: Load ~/.CocosCreator/settings.json
+2020-02-07T14:18:08.229Z - normal: Initializing Asset Database
+2020-02-07T14:18:08.232Z - normal: checking language setting...
+2020-02-07T14:18:08.232Z - normal: Language: zh
+2020-02-07T14:18:08.631Z - success: preview server running at http://localhost:7456
+2020-02-07T14:18:08.674Z - success: protocol editor-framework registered
+2020-02-07T14:18:08.674Z - success: protocol app registered
+2020-02-07T14:18:08.674Z - success: protocol theme registered
+2020-02-07T14:18:08.675Z - success: protocol packages registered
+2020-02-07T14:18:08.675Z - success: protocol uuid registerred
+2020-02-07T14:18:08.675Z - success: protocol db registerred
+2020-02-07T14:18:08.675Z - success: protocol thumbnail registerred
+2020-02-07T14:18:08.675Z - success: protocol unpack registerred
+2020-02-07T14:18:08.675Z - success: protocol disable-commonjs registerred
+2020-02-07T14:18:08.929Z - normal: connected!
+2020-02-07T14:18:08.930Z - normal: Check project /Users/hy1997/jumpp
+2020-02-07T14:18:08.931Z - normal: Initializing project /Users/hy1997/jumpp
+2020-02-07T14:18:08.957Z - success: adapters loaded
+2020-02-07T14:18:08.975Z - success: asset-db-debugger loaded
+2020-02-07T14:18:09.043Z - success: fb-audience-network loaded
+2020-02-07T14:18:09.068Z - success: fb-live-stream loaded
+2020-02-07T14:18:09.070Z - success: google-play-instant loaded
+2020-02-07T14:18:09.074Z - success: huawei-runtime loaded
+2020-02-07T14:18:09.075Z - success: jkw-adapter loaded
+2020-02-07T14:18:09.076Z - success: jsb-adapter loaded
+2020-02-07T14:18:09.079Z - success: oppo-runtime loaded
+2020-02-07T14:18:09.095Z - success: package-manager loaded
+2020-02-07T14:18:09.096Z - success: qtt-adapter loaded
+2020-02-07T14:18:09.098Z - success: runtime-dev-tools loaded
+2020-02-07T14:18:09.118Z - success: sdkbox loaded
+2020-02-07T14:18:09.135Z - success: ui-kit-preview-extra loaded
+2020-02-07T14:18:09.155Z - success: ui-kit-preview loaded
+2020-02-07T14:18:09.160Z - success: vivo-runtime loaded
+2020-02-07T14:18:09.162Z - success: alipay-minigame loaded
+2020-02-07T14:18:09.234Z - success: assets loaded
+2020-02-07T14:18:09.237Z - success: baidugame-opendata loaded
+2020-02-07T14:18:09.239Z - success: baidugame loaded
+2020-02-07T14:18:09.257Z - success: builder loaded
+2020-02-07T14:18:09.405Z - success: cocos-services loaded
+2020-02-07T14:18:09.425Z - success: console loaded
+2020-02-07T14:18:09.436Z - success: fb-instant-games loaded
+2020-02-07T14:18:09.453Z - success: game-window loaded
+2020-02-07T14:18:09.455Z - success: google-instant-games loaded
+2020-02-07T14:18:09.472Z - success: hierarchy loaded
+2020-02-07T14:18:09.488Z - success: inspector loaded
+2020-02-07T14:18:09.749Z - success: cpk-publish loaded
+2020-02-07T14:18:09.753Z - success: keystore loaded
+2020-02-07T14:18:09.776Z - success: node-library loaded
+2020-02-07T14:18:09.788Z - success: open-recent-items loaded
+2020-02-07T14:18:09.790Z - success: package-asset loaded
+2020-02-07T14:18:09.791Z - success: preferences loaded
+2020-02-07T14:18:09.812Z - success: project-exporter loaded
+2020-02-07T14:18:09.832Z - success: project-importer loaded
+2020-02-07T14:18:09.851Z - success: project-settings loaded
+2020-02-07T14:18:09.864Z - success: qtt-runtime loaded
+2020-02-07T14:18:09.883Z - success: scene loaded
+2020-02-07T14:18:09.884Z - success: simulator-debugger loaded
+2020-02-07T14:18:09.885Z - success: sprite-editor loaded
+2020-02-07T14:18:09.925Z - success: store loaded
+2020-02-07T14:18:09.943Z - success: timeline loaded
+2020-02-07T14:18:09.946Z - success: wechatgame-opendata loaded
+2020-02-07T14:18:09.950Z - success: wechatgame loaded
+2020-02-07T14:18:09.954Z - success: xiaomi-runtime loaded
+2020-02-07T14:18:10.833Z - normal: Initializing Cocos2d
+2020-02-07T14:18:11.143Z - normal: Initializing engine extends
+2020-02-07T14:18:11.973Z - normal: Loading packages
+2020-02-07T14:18:11.979Z - normal: Watching packages
+2020-02-07T14:18:12.091Z - normal: Run Application
+2020-02-07T14:18:12.121Z - info: Cocos Service load base data!
+2020-02-07T14:31:56.760Z - info: shutdown preview server
